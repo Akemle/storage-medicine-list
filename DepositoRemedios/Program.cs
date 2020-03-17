@@ -20,9 +20,9 @@ namespace DepositoRemedios
             MedicineController med = new MedicineController();
 
 
-            //TESTE ENCAPSULAMENTO
+            //TESTE ENCAPSULAMENTO / REMEDIOS JÁ ADICIONADOS 
 
-          /*  //med1
+            //med1
             med1.Name = "Paracetamol";
             med1.Price = 12.50;
             med1.Quant = 20;
@@ -36,7 +36,7 @@ namespace DepositoRemedios
             med3.Name = "Buscopan";
             med3.Price = 8.00;
             med3.Quant = 150;
-            list.Add(med3);*/
+            list.Add(med3);
 
             int indic; //indice
 
@@ -117,7 +117,6 @@ namespace DepositoRemedios
                         double newPrice = double.Parse(Console.ReadLine());
                         list[indic].Price = newPrice;
 
-                        //med1.UpdatePrice(newPrice, indic);    //não utilizar metodos
                         Console.WriteLine($"Preço do remédio atualizado para {list[indic].Price}.");
                         indic = 0;
                         break;

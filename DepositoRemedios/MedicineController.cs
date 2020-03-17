@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace DepositoRemedios
-{
+{               
     public class MedicineController
     {
+        //FUNÇÕES
+
        /* public static Medicine addMed(Medicine med)
         {
             List<Medicine> list = new List<Medicine>();
