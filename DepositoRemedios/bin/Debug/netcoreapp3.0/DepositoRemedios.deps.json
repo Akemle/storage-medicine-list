@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DepositoRemedios/1.0.0": {
+        "runtime": {
+          "DepositoRemedios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepositoRemedios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\bin\Debug\netcoreapp3.0\DepositoRemedios.exe
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\bin\Debug\netcoreapp3.0\DepositoRemedios.deps.json
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\bin\Debug\netcoreapp3.0\DepositoRemedios.runtimeconfig.json
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\bin\Debug\netcoreapp3.0\DepositoRemedios.runtimeconfig.dev.json
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\bin\Debug\netcoreapp3.0\DepositoRemedios.dll
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\bin\Debug\netcoreapp3.0\DepositoRemedios.pdb
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\obj\Debug\netcoreapp3.0\DepositoRemedios.csprojAssemblyReference.cache
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\obj\Debug\netcoreapp3.0\DepositoRemedios.AssemblyInfoInputs.cache
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\obj\Debug\netcoreapp3.0\DepositoRemedios.AssemblyInfo.cs
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\obj\Debug\netcoreapp3.0\DepositoRemedios.dll
+C:\Users\akemle\source\repos\DepositoRemedios\DepositoRemedios\obj\Debug\netcoreapp3.0\DepositoRemedios.pdb
