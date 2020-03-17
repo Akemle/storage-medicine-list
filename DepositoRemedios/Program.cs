@@ -127,6 +127,7 @@ namespace DepositoRemedios
                         Console.WriteLine("Digite a quantidade atualizada: ");
                         int newQuant = int.Parse(Console.ReadLine());
                         list[indic].Quant = newQuant;
+
                         Console.WriteLine($"Quantidade do remédio atualizada para {list[indic].Quant}.");
                         indic = 0;
                         break;
